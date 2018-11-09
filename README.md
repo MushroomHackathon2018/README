@@ -2,7 +2,7 @@
 
 各位创客们，欢迎来到由XILINX赞助的2018蘑菇云脑洞大赛，出行新体验黑客马拉松 
 
-![haibao](haibao.jpg)
+![haibao](./data/haibao.jpg)
 
 ## 比赛流程
 
@@ -28,7 +28,7 @@
 -	中文资料
 	-	关注 pynq 公众号 回复`PYNQ入门资料集锦`获取资料
 
-![pynq](qrcode2.jpg)
+![pynq](./data/qrcode2.jpg)
 -	传感器相关例子
 	-	PMOD接口传感器案例 [点这里](https://github.com/Xilinx/PYNQ/tree/master/boards/Pynq-Z1/base/notebooks/pmod) [原理](https://pynq.readthedocs.io/en/v2.3/pynq_libraries/pmod.html)
 	-	ARDUINO接口传感器案例 [点这里](https://github.com/Xilinx/PYNQ/tree/master/boards/Pynq-Z1/base/notebooks/arduino) [原理](https://pynq.readthedocs.io/en/v2.3/pynq_libraries/arduino.html)
